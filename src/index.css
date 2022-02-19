@@ -7,7 +7,34 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+#img {
+  background: url('../public/—Pngtree—modern\ double\ color\ futuristic\ neon_1181573.jpg');
+  /* height: 100vh;
+  width: 100vw; */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.btn {
+  background-color: #6050DC !important;
+  width: 170px;
+}
+
+#resetAll{
+  background-color: #F08080 !important;
+}
+
+h1, h2 {
+  font-size: 5rem ;
+}
+
+h4 {
+  font-size: 2rem;
 }
